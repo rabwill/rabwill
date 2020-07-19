@@ -7,6 +7,7 @@
 
 - 🔭 I’m currently working on M365 SharePoint Intranet projects
 - 🌱 I’m currently learning perseverence 
+- 📒 I write technical notes to self 👉🏾 [rabiawilliams.com](https://rabiawilliams.com/spfx/msgraph-toolkit/)
 - 👯 I’m looking to collaborate on M365 open source initiatives like **Patterns&Practices**
 - 💬 Ask me about M365 development
 - 📫 [@williamsrabia](https://twitter.com/williamsrabia)
