@@ -9,6 +9,6 @@
 - 📒 I write technical notes to self 👉🏾 [rabiawilliams.com](https://rabiawilliams.com/spfx/msgraph-toolkit/)
 - 👯 I love working on M365 open source initiatives like **Patterns&Practices**
 - 💬 Ask me about [CLI for Microsoft365](https://pnp.github.io/cli-microsoft365/) or M365 development in general
-- 🐥 PnP Member](https://pnp.github.io/) 
+- 🐥 [PnP Member](https://pnp.github.io/) 
 - 📫 [@williamsrabia](https://twitter.com/williamsrabia)
 
