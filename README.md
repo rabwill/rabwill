@@ -1,6 +1,5 @@
 ### It's Rabia Williams 👋
 ![](https://img.shields.io/badge/%F0%9F%93%A6%20%20cloud-developer-advocate-yellow)
-![](https://img.shields.io/badge/%F0%9F%93%A6%20%20cliformicrosoft365-maintainer-green)
 ![](https://img.shields.io/badge/%F0%9F%93%A6%20%20pnp-member-green)
 
 - 🔭 I’m currently working as a Cloud Developer Advocate @microsoft, focusing on Microsoft Teams, Microsoft Graph & SPFx development 
