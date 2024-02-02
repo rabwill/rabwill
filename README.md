@@ -10,4 +10,4 @@
 - 🐥 [PnP Member](https://pnp.github.io/) 
 - 📫 [@williamsrabia](https://twitter.com/williamsrabia)
 
-- 📒 [Some notes I like to scribble online as a Spiritual seeker for like minded humans[(https://substack.com/@rabiawilliams)
+- 📒 [Some notes I like to scribble online as a Spiritual seeker for like minded humans](https://substack.com/@rabiawilliams)
