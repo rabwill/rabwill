@@ -1,12 +1,27 @@
-### It's Rabia Williams 👋
-![](https://img.shields.io/badge/%F0%9F%93%A6%20%20cloud-developer-advocate-yellow)
-![](https://img.shields.io/badge/%F0%9F%93%A6%20%20pnp-member-green)
+### Hi, I'm Rabia Williams 👋
 
-- 🔭 I’m currently working as a Cloud Developer Advocate @microsoft, focusing on extending Copilot for Microsoft 365,  Microsoft Teams & Microsoft Graph API
-- 📒 I used to write technical notes to self 👉🏾 [rabiawilliams.com](https://rabiawilliams.com/spfx/msgraph-toolkit/)
-- 👯 I love working on M365 open source initiatives like **Patterns&Practices**
-- 💬 Ask me about [CLI for Microsoft365](https://pnp.github.io/cli-microsoft365/) or M365 development in general
-- 🐥 [PnP Member](https://pnp.github.io/) 
-- 📫 [@williamsrabia](https://twitter.com/williamsrabia)
+**Cloud Developer Advocate @ Microsoft** · PnP Member · AI Tooling
 
-- 📒 [Some notes I like to scribble online as a Spiritual seeker for like minded humans](https://substack.com/@rabiawilliams)
+---
+
+#### What I do
+I help developers build with AI — agents, Copilot extensions, and MCP servers that connect models to real workflows and real data.
+
+#### Areas of interest
+- 🤖 AI agents, prompt engineering, and the Model Context Protocol (MCP)
+- 🪁 Copilot extensions for Microsoft 365
+- 🐥 M365 open-source community via [PnP](https://pnp.github.io/)
+
+#### Recent work
+- 🔌 Built [substack-mcp](https://github.com/rabwill/substack-mcp) — one MCP server, four AI apps (Copilot, Claude, Perplexity, Word)
+- 📝 Wrote [Why I Built One Substack MCP Server for Four AI Apps](https://rabiawilliams.com/blog/mcp-the-usb-c-for-ai-agents/)
+- 📚 Author of labs and courses at [Copilot Developer Camp](https://microsoft.github.io/copilot-camp/)
+
+#### Beyond code
+I write about philosophy and the examined life over on [Substack](https://iknowthisfeeling.com) — for those who like to think slowly.
+
+---
+
+💬 Ask me about agents · MCP · Copilot extensions · M365 development · prompting
+
+📫 [LinkedIn](https://www.linkedin.com/in/rabiawilliams/) · [rabiawilliams@gmail.com](mailto:rabiawilliams@gmail.com) · [rabiawilliams.com](https://rabiawilliams.com)
